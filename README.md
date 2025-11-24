@@ -1,0 +1,85 @@
+# Demo-Rocas-2.0
+Bienvenido/a. En esta ruta explorarás las rocas ígneas, sedimentarias y metamórficas mediante cápsulas breves, actividades simples y apoyo de IA para aclarar conceptos. Esta revisión autónoma te preparará para la clase presencial.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Actividad: Clasificación de Rocas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #333;
+    }
+    .moment {
+      margin-bottom: 35px;
+      padding: 20px;
+      background: #eef4ff;
+      border-radius: 10px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 18px;
+      background: #1976d2;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Actividad de Aprendizaje: Clasificación de Rocas</h1>
+  <p>Esta actividad se desarrolla en tres grandes momentos y utiliza IA solo como apoyo básico para la revisión previa.</p>
+
+  <!-- Momento 1 -->
+  <div class="moment">
+    <h2>1) Revisión previa asistida por IA</h2>
+    <p>Los estudiantes exploran cápsulas, lecturas y recursos visuales sobre rocas ígneas, sedimentarias y metamórficas.</p>
+    <p><strong>Uso de IA sugerido:</strong> solicitar definiciones simples o explicaciones breves como:</p>
+    <ul>
+      <li>“Explícame en 3 oraciones cómo se forman las rocas ígneas.”</li>
+      <li>“Dame una definición simple de compactación.”</li>
+      <li>“Hazme 3 preguntas para comprobar si entendí los tipos de rocas.”</li>
+    </ul>
+  </div>
+
+  <!-- Momento 2 -->
+  <div class="moment">
+    <h2>2) Clase presencial: análisis y consolidación</h2>
+    <p>En el aula, los estudiantes comparan tipos de rocas, discuten diferencias y analizan ejemplos reales o imágenes.</p>
+    <p>El docente guía la reflexión y aclara conceptos revisados previamente.</p>
+  </div>
+
+  <!-- Momento 3 -->
+  <div class="moment">
+    <h2>3) Evaluación formativa de clasificación</h2>
+    <p>Los estudiantes clasifican rocas según sus características y procesos de formación para demostrar el resultado de aprendizaje.</p>
+    <p>Ejercicios posibles:</p>
+    <ul>
+      <li>Identificar si una roca es ígnea, sedimentaria o metamórfica.</li>
+      <li>Justificar la clasificación según su proceso de formación.</li>
+      <li>Resolver un mini test generado por IA.</li>
+    </ul>
+  </div>
+
+  <a href="#" class="btn">Finalizar</a>
+</div>
+
+</body>
+</html>
